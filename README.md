@@ -1,1 +1,1 @@
-# movieRating_Be_REST
+# movieRatingREST
